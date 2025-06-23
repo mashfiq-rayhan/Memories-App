@@ -37,7 +37,7 @@ Memories App is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) appli
 
 1. Clone the repository and install dependencies for both client and server:
    ```bash
-   git clone https://github.com/your-username/Memories-App-master.git
+   git clone https://github.com/mashfiq-rayhan/Memories-App.git
    cd Memories-App-master
    cd server && npm install
    cd ../client && npm install
